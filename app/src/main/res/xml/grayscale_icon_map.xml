@@ -131,5 +131,5 @@
     <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
     <icon drawable="@drawable/outlook" package="com.microsoft.office.outlook" name="Outlook" />
     <icon drawable="@drawable/ticktick" package="com.ticktick.task" name="TickTick" />
-    <icon drawable="@drawable/boost" package="com.rubenmayo.reddit" name="Boost" />
+    <icon drawable="@drawable/boost" package="com.rubenmayayo.reddit" name="Boost" />
 </icons>
