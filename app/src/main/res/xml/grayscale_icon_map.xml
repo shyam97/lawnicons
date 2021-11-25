@@ -122,4 +122,14 @@
     <icon drawable="@drawable/sweech" package="com.sweech" name="Sweech" />
     <icon drawable="@drawable/speedtest_by_ookla" package="org.zwanoo.android.speedtest" name="Speedtest by Ookla" />
     <icon drawable="@drawable/progressbar95" package="com.spookyhousestudios.progressbar95" name="Progressbar95" />
+    <icon drawable="@drawable/ah" package="com.icemobile.albertheijn" name="Albert Heijn" />
+    <icon drawable="@drawable/lidlplus" package="com.lidl.eci.lidlplus" name="Lidl Plus" />
+    <icon drawable="@drawable/jumboextras" package="com.jumbo.extras" name="Jumbo Extra's" />
+    <icon drawable="@drawable/zoom" package="us.zoom.videomeetings" name="Zoom" />
+    <icon drawable="@drawable/teams" package="com.microsoft.teams" name="Teams" />
+    <icon drawable="@drawable/ic_9292" package="nl.negentwee" name="9292" />
+    <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
+    <icon drawable="@drawable/outlook" package="com.microsoft.office.outlook" name="Outlook" />
+    <icon drawable="@drawable/ticktick" package="com.ticktick.task" name="TickTick" />
+    <icon drawable="@drawable/boost" package="com.rubenmayo.reddit" name="Boost" />
 </icons>
